@@ -1,1 +1,20 @@
 /*- this is the css file for clone-google-*/ 
+img {
+	height: 90px;
+	width: 272px;
+	position: absolute;
+}
+#top-navbar .navtext {
+    position: relative;
+    clear: right;
+    right: 10px;
+	color: red;
+	display: inline-block;
+	border: 1px dashed black;
+	top:1px;
+}
+
+search-bar {
+	margin: auto;
+
+}
